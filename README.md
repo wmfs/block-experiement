@@ -4,3 +4,7 @@ Just a clone of [google/blocky](https://github.com/google/blockly) to see if it 
 
 
 * As per [Getting Started](https://developers.google.com/blockly/guides/get-started/web) bring this down and just open `demos/fixed/index.html` to get something in a browser.
+
+It looks worth a look because:
+
+`demos/toolbox/index.html`
